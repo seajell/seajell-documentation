@@ -1,3 +1,16 @@
 site_name: SeaJell Documentation
 theme:
   name: material
+  logo: assets/SeaJell-Logo.png
+  favicon: assets/SeaJell-Logo.png
+  font:
+    text: Josefin Sans
+    code: Share Tech Mono
+  palette:
+    scheme: slate
+    primary: orange
+    accent: amber
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
