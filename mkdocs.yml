@@ -5,19 +5,30 @@ theme:
   favicon: assets/SeaJell-Logo.png
   font:
     text: Josefin Sans
-    code: Share Tech Mono
+    code: Source Code Pro
   palette:
     scheme: slate
-    primary: orange
+    primary: deep orange
     accent: amber
   features:
     - search.highlight
     - search.share
     - header.autohide
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
 markdown_extensions:
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - toc:
+      permalink: ⚓︎
 plugins:
   - search
 extra:
@@ -35,3 +46,9 @@ extra:
       link: https://twitter.com/seajelldev
       name: Twitter
 copyright: Copyright &copy; 2021 Muhammad Hanis Irfan Bin Mohd Zaid
+nav:
+    - Home: index.md
+    - Installation: installation.md
+    - Certificate: certificate.md
+    - Event: event.md
+    - Administration: admin.md
