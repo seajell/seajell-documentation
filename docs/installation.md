@@ -28,7 +28,7 @@ Some shared hosting provider does support Laravel app hosting. Contact your host
 
 There's **2** methods that you can use to install the system.
 
-### Source Code
+### Source Code (For Developers)
 - Download the source code of this system from the GitHub repository.
 - Copy `.env.example` file and rename to `.env`. Configure the `.env` file for database connection.
 - Run `composer install` and `npm install` to install necessary dependencies.

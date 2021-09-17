@@ -49,6 +49,7 @@ copyright: Copyright &copy; 2021 Muhammad Hanis Irfan Bin Mohd Zaid
 nav:
     - Home: index.md
     - Installation: installation.md
+    - User: user.md
     - Certificate: certificate.md
     - Event: event.md
     - Administration: admin.md
