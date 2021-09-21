@@ -34,7 +34,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/solid/globe
-      link: https://projects.hanisirfan.xyz/seajell
+      link: https://seajell.xyz
       name: Website
     - icon: fontawesome/brands/github
       link: https://github.com/hanisirfan/seajell
