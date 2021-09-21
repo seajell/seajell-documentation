@@ -2,6 +2,8 @@
 
 **Note: The documentation is still a Work In Progress and will be done right before release SeaJell v2.0.0.**
 
+**This is a test. Make sure to remove this text*.*
+
 **Note: The term (system, project or SeaJell) will be used interchangeably to identify the SeaJell project.**
 
 In this documentation listed all the information and guidance that you need to get started in using SeaJell.
