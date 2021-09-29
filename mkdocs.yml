@@ -34,18 +34,18 @@ plugins:
 extra:
   social:
     - icon: fontawesome/solid/globe
-      link: https://seajell.xyz
+      link: https://www.seajell.xyz
       name: Website
     - icon: fontawesome/brands/github
-      link: https://github.com/hanisirfan/seajell
+      link: https://github.com/seajell/seajell
       name: GitHub
     - icon: fontawesome/brands/discord
-      link: https://projects.hanisirfan.xyz/seajell
+      link: https://www.seajell.xyz
       name: Discord
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/seajelldev
+      link: https://www.twitter.com/seajelldev
       name: Twitter
-copyright: Copyright &copy; 2021 Muhammad Hanis Irfan Bin Mohd Zaid
+copyright: Copyright &copy; 2021 The SeaJell Contributors
 nav:
     - Home: index.md
     - Installation: installation.md
