@@ -45,7 +45,7 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://www.twitter.com/seajelldev
       name: Twitter
-copyright: Copyright &copy; 2021 The SeaJell Contributors
+copyright: Copyright &copy; 2021 The SeaJell Contributors. The content of this documentation is licensed under CC BY 4.0.
 nav:
     - Home: index.md
     - Installation: installation.md
