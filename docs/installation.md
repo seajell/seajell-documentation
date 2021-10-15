@@ -3,7 +3,7 @@
 ## Requirements
 1. Access to terminal / SSH
 2. Web server (Apache2, NGINX)
-3. MySQL / MongoDB
+3. MySQL
 4. NodeJS (for NPM)
 5. PHP Extensions (enabled in php.ini)
     1. ext-dom
